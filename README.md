@@ -8,3 +8,11 @@ Design Patterns Ministrados:
 - Composite
 - Singleton
 - Facade
+
+| Padrão | Anti-Padrão | Descrição | Problema que Resolve | 
+| -------- | --------| -------- | |
+| Strategy   | -  | - | - |
+| Observer  | - | - | - |
+| Composite  | - | - | - |
+| Singleton  | - | - | - |
+| Facade  | - | - | - |
