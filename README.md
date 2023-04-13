@@ -10,7 +10,7 @@ Design Patterns Ministrados:
 - Facade
 
 | Padrão | Anti-Padrão | Descrição | Problema que Resolve | 
-| -------- | --------| -------- | |
+| -------- | --------| -------- | -------- |
 | Strategy   | -  | - | - |
 | Observer  | - | - | - |
 | Composite  | - | - | - |
