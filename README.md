@@ -6,3 +6,5 @@ Design Patterns Ministrados:
 - Strategy
 - Observer
 - Composite
+- Singleton
+- Facade
