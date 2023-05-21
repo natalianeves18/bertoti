@@ -8,6 +8,7 @@ Design Patterns Ministrados:
 - Composite
 - Singleton
 - Facade
+- MVC
 
 | Padrão     | Anti-Padrão  | Descrição                                                   | Problema que Resolve                                |
 |------------|--------------|-------------------------------------------------------------|-----------------------------------------------------|
@@ -16,4 +17,5 @@ Design Patterns Ministrados:
 | Composite  | NoComposite  | Permite que os clientes tratem objetos individuais e composições de objetos uniformemente. | Lida com estruturas hierárquicas que podem ser representadas como uma árvore de objetos. |
 | Singleton  | NoSingleton  | Garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a ela. | Lida com classes que precisam ter apenas uma instância em todo o programa. |
 | Facade     | NoFacade     | Fornece uma interface unificada para um conjunto de interfaces em um subsistema. | Lida com subsistemas complexos que têm muitos componentes e interfaces diferentes. |
+| MVC     |  |  |  |
 
